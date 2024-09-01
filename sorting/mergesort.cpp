@@ -8,5 +8,8 @@ void merge(vector<int>& arr, int left, int mid, int right){
     for(int j=0; j<n2; j++) R[j]=arr[mid+1+j];
 
     int i=o, j=0, k=left;
-    
+    while(i<n1 && j<n2){
+        
+    }
+
 }
